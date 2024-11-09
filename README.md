@@ -12,7 +12,9 @@ Inspired by the magical world of Harry Potter, this project brings a piece of th
 * Customizable Cloak Color: Replace any chosen color with the background.
 * Dynamic Background Capture: Ensures the cloak blends perfectly with your surroundings.
 * User-friendly Controls:
+  
   f: Flip video for a mirrored view.
+  
   q: Quit the program with ease.
   
 📚 Inspiration
