@@ -1,4 +1,5 @@
 🧙‍♂️ Invisibility Cloak
+
 Inspired by the magical world of Harry Potter, this project brings a piece of the wizarding universe into reality. In the books and movies, Harry Potter, created by J.K. Rowling, is a young wizard who embarks on thrilling adventures at Hogwarts School of Witchcraft and Wizardry. Among his many magical artifacts is the legendary invisibility cloak, a rare and powerful item that allows its wearer to become completely invisible. This project recreates that experience using modern technology, blending fantasy and computer vision to deliver a real-time "invisibility" effect.
 
 ✨ Features
